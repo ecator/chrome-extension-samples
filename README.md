@@ -3,4 +3,4 @@
 
 # 示例目录
 
-- (set_icon_path)[https://github.com/ecator/chrome-extension-samples/tree/master/set_icon_path] 单击可以改变图标的Browser Action
+- [set_icon_path](https://github.com/ecator/chrome-extension-samples/tree/master/set_icon_path) 单击可以改变图标的Browser Action
